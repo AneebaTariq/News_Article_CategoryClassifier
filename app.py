@@ -5,9 +5,9 @@ import joblib
 import re
 
 # Load trained model and preprocessing objects
-model = joblib.load(r"E:\SafeX solutions Internship\news article classification\svm_model.pkl")
-tfidf = joblib.load(r"E:\SafeX solutions Internship\news article classification\tfidf.pkl")
-scaler = joblib.load(r"E:\SafeX solutions Internship\news article classification\scaler.pkl")
+model = joblib.load(r"svm_model.pkl")
+tfidf = joblib.load(r"tfidf.pkl")
+scaler = joblib.load(r"scaler.pkl")
 
 st.title("News Article Topic Classifier")
 
