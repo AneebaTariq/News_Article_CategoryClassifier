@@ -379,28 +379,18 @@ The project demonstrates an end-to-end machine learning workflow from data prepa
 Data Science Intern
 SAFEX Solutions
 
-````
-
-### One important thing
-
-In this part:
 
 ```markdown
-**Live Demo:** [News Article Topic Classifier](PASTE-YOUR-STREAMLIT-LINK-HERE)
+**Live Demo:** [News Article Topic Classifier]([PASTE-YOUR-STREAMLIT-LINK-HERE](https://newsarticlecategoryclassifier.streamlit.app/))
 ````
 
-replace `PASTE-YOUR-STREAMLIT-LINK-HERE` with your actual Streamlit URL.
+replace `https://newsarticlecategoryclassifier.streamlit.app/` with your actual Streamlit URL.
 
-And here:
 
 ```markdown
-git clone YOUR-GITHUB-REPOSITORY-LINK
+[git clone YOUR-GITHUB-REPOSITORY-LINK](https://github.com/AneebaTariq/News_Article_CategoryClassifier)
 ```
 
-replace that with your actual GitHub repository URL.
-
-**Don't change your notebook or app code just for the README.** Your README now documents the actual workflow and results you've produced.
-and weighted F1 scoring. The selected parameter was `C = 0.5`.
 
 ## Error Analysis
 
@@ -425,7 +415,7 @@ The project includes an interactive Streamlit application that allows users to e
 
 The application uses the trained TF-IDF vectorizer, scaler, and tuned Linear SVM model.
 
-**Live Demo:** [Add your Streamlit link here]
+**Live Demo:** [[Add your Streamlit link here](https://newsarticlecategoryclassifier.streamlit.app/)]
 
 ## Project Files
 
