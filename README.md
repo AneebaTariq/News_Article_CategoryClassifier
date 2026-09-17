@@ -8,7 +8,7 @@ The project was developed as part of the **SAFEX Solutions Data Science Internsh
 
 Try the deployed Streamlit application:
 
-**Live Demo:** [News Article Topic Classifier](PASTE-YOUR-STREAMLIT-LINK-HERE)
+**Live Demo:** [News Article Topic Classifier](https://newsarticlecategoryclassifier.streamlit.app/)
 
 The application allows users to enter a news article title and content and receive a predicted topic.
 
@@ -325,13 +325,13 @@ news-article-categoryclassifier/
 Clone the repository:
 
 ```bash
-git clone YOUR-GITHUB-REPOSITORY-LINK
+git clone https://github.com/AneebaTariq/News_Article_CategoryClassifier
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd news-article-categoryclassifier
+cd News_Article_CategoryClassifier
 ```
 
 Install the required dependencies:
@@ -381,14 +381,12 @@ SAFEX Solutions
 
 
 ```markdown
-**Live Demo:** [News Article Topic Classifier]([PASTE-YOUR-STREAMLIT-LINK-HERE](https://newsarticlecategoryclassifier.streamlit.app/))
+**Live Demo:** [News Article Topic Classifier](https://newsarticlecategoryclassifier.streamlit.app/)
 ````
-
-replace `https://newsarticlecategoryclassifier.streamlit.app/` with your actual Streamlit URL.
 
 
 ```markdown
-[git clone YOUR-GITHUB-REPOSITORY-LINK](https://github.com/AneebaTariq/News_Article_CategoryClassifier)
+[git clone News_Article_CategoryClassifier](https://github.com/AneebaTariq/News_Article_CategoryClassifier)
 ```
 
 
@@ -415,7 +413,7 @@ The project includes an interactive Streamlit application that allows users to e
 
 The application uses the trained TF-IDF vectorizer, scaler, and tuned Linear SVM model.
 
-**Live Demo:** [[Add your Streamlit link here](https://newsarticlecategoryclassifier.streamlit.app/)]
+**Live Demo:** [(https://newsarticlecategoryclassifier.streamlit.app/)]
 
 ## Project Files
 
