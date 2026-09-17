@@ -1,4 +1,3 @@
-````markdown
 # News Article Topic Classification
 
 A machine learning project that classifies news articles into four topic categories: **Business, Entertainment, Health, and Technology**.
